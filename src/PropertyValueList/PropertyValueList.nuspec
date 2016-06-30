@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/gregwiechec/episerver-propertyValueList/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/gregwiechec/episerver-propertyValueList</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>EPIServer PropertyValueList&lt;T&gt;.</releaseNotes>
+    <copyright>Copyright GregorWiechec 2016</copyright>
+    <tags>EPiServer Property ListProperty</tags>
+  </metadata>
+  
+    <files>
+	    <file src="readme.txt" target="" />
+    </files>
+</package>
